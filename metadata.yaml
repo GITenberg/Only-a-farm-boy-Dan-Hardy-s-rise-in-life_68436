@@ -7,6 +7,9 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '39751'
     url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 68436-h/images/cover.jpg
 creator:
   author:
     agent_name: Webster, Frank V.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1955
     wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68436#Only-a-farm-boy-Dan-Hardy-s-rise-in-life
 gutenberg_issued: '2022-07-01'
 identifiers:
   gutenberg: '68436'
